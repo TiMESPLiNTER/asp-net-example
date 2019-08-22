@@ -1,0 +1,39 @@
+C:/Users/HSR/Documents/Visual Studio 2017/Projects/WebApplication2/WebApplication2/bin/Debug/netcoreapp2.1/BMI.deps.json
+C:/Users/HSR/Documents/Visual Studio 2017/Projects/WebApplication2/WebApplication2/bin/Debug/netcoreapp2.1/BMI.runtimeconfig.json
+C:/Users/HSR/Documents/Visual Studio 2017/Projects/WebApplication2/WebApplication2/bin/Debug/netcoreapp2.1/BMI.runtimeconfig.dev.json
+C:/Users/HSR/Documents/Visual Studio 2017/Projects/WebApplication2/WebApplication2/bin/Debug/netcoreapp2.1/BMI.dll
+C:/Users/HSR/Documents/Visual Studio 2017/Projects/WebApplication2/WebApplication2/bin/Debug/netcoreapp2.1/BMI.pdb
+C:/Users/HSR/Documents/Visual Studio 2017/Projects/WebApplication2/WebApplication2/bin/Debug/netcoreapp2.1/BMI.Views.dll
+C:/Users/HSR/Documents/Visual Studio 2017/Projects/WebApplication2/WebApplication2/bin/Debug/netcoreapp2.1/BMI.Views.pdb
+C:/Users/HSR/Documents/Visual Studio 2017/Projects/WebApplication2/WebApplication2/obj/Debug/netcoreapp2.1/BMI.csprojAssemblyReference.cache
+C:/Users/HSR/Documents/Visual Studio 2017/Projects/WebApplication2/WebApplication2/obj/Debug/netcoreapp2.1/BMI.csproj.CoreCompileInputs.cache
+C:/Users/HSR/Documents/Visual Studio 2017/Projects/WebApplication2/WebApplication2/obj/Debug/netcoreapp2.1/BMI.RazorAssemblyInfo.cache
+C:/Users/HSR/Documents/Visual Studio 2017/Projects/WebApplication2/WebApplication2/obj/Debug/netcoreapp2.1/BMI.RazorAssemblyInfo.cs
+C:/Users/HSR/Documents/Visual Studio 2017/Projects/WebApplication2/WebApplication2/obj/Debug/netcoreapp2.1/BMI.AssemblyInfoInputs.cache
+C:/Users/HSR/Documents/Visual Studio 2017/Projects/WebApplication2/WebApplication2/obj/Debug/netcoreapp2.1/BMI.AssemblyInfo.cs
+C:/Users/HSR/Documents/Visual Studio 2017/Projects/WebApplication2/WebApplication2/obj/Debug/netcoreapp2.1/BMI.TagHelpers.input.cache
+C:/Users/HSR/Documents/Visual Studio 2017/Projects/WebApplication2/WebApplication2/obj/Debug/netcoreapp2.1/BMI.TagHelpers.output.cache
+C:/Users/HSR/Documents/Visual Studio 2017/Projects/WebApplication2/WebApplication2/obj/Debug/netcoreapp2.1/BMI.RazorCoreGenerate.cache
+C:/Users/HSR/Documents/Visual Studio 2017/Projects/WebApplication2/WebApplication2/obj/Debug/netcoreapp2.1/Razor/Pages/Error.g.cshtml.cs
+C:/Users/HSR/Documents/Visual Studio 2017/Projects/WebApplication2/WebApplication2/obj/Debug/netcoreapp2.1/Razor/Pages/Index.g.cshtml.cs
+C:/Users/HSR/Documents/Visual Studio 2017/Projects/WebApplication2/WebApplication2/obj/Debug/netcoreapp2.1/Razor/Pages/Shared/_CookieConsentPartial.g.cshtml.cs
+C:/Users/HSR/Documents/Visual Studio 2017/Projects/WebApplication2/WebApplication2/obj/Debug/netcoreapp2.1/Razor/Pages/Shared/_Layout.g.cshtml.cs
+C:/Users/HSR/Documents/Visual Studio 2017/Projects/WebApplication2/WebApplication2/obj/Debug/netcoreapp2.1/Razor/Pages/Shared/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/HSR/Documents/Visual Studio 2017/Projects/WebApplication2/WebApplication2/obj/Debug/netcoreapp2.1/Razor/Pages/_ViewImports.g.cshtml.cs
+C:/Users/HSR/Documents/Visual Studio 2017/Projects/WebApplication2/WebApplication2/obj/Debug/netcoreapp2.1/Razor/Pages/_ViewStart.g.cshtml.cs
+C:/Users/HSR/Documents/Visual Studio 2017/Projects/WebApplication2/WebApplication2/obj/Debug/netcoreapp2.1/BMI.RazorTargetAssemblyInfo.cache
+C:/Users/HSR/Documents/Visual Studio 2017/Projects/WebApplication2/WebApplication2/obj/Debug/netcoreapp2.1/BMI.RazorTargetAssemblyInfo.cs
+C:/Users/HSR/Documents/Visual Studio 2017/Projects/WebApplication2/WebApplication2/obj/Debug/netcoreapp2.1/BMI.Views.pdb
+C:/Users/HSR/Documents/Visual Studio 2017/Projects/WebApplication2/WebApplication2/obj/Debug/netcoreapp2.1/BMI.dll
+C:/Users/HSR/Documents/Visual Studio 2017/Projects/WebApplication2/WebApplication2/obj/Debug/netcoreapp2.1/BMI.pdb
+C:/Users/HSR/Documents/Visual Studio 2017/Projects/WebApplication2/WebApplication2/obj/Debug/netcoreapp2.1/BMI.csproj.CopyComplete
+/app/obj/Debug/netcoreapp2.1/BMI.csprojAssemblyReference.cache
+/app/obj/Debug/netcoreapp2.1/BMI.RazorAssemblyInfo.cache
+/app/obj/Debug/netcoreapp2.1/BMI.RazorAssemblyInfo.cs
+/app/obj/Debug/netcoreapp2.1/BMI.AssemblyInfoInputs.cache
+/app/obj/Debug/netcoreapp2.1/BMI.AssemblyInfo.cs
+/app/obj/Debug/netcoreapp2.1/BMI.dll
+/app/obj/Debug/netcoreapp2.1/BMI.pdb
+/app/obj/Debug/netcoreapp2.1/BMI.TagHelpers.input.cache
+/app/obj/Debug/netcoreapp2.1/BMI.TagHelpers.output.cache
+/app/obj/Debug/netcoreapp2.1/BMI.RazorCoreGenerate.cache

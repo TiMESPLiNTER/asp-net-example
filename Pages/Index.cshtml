@@ -1,0 +1,14 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "BMI-Rechner";
+}
+
+<h1>@ViewData["Title"]</h1>
+<form method="post">
+    <label>Grösse in cm <input type="text" name="height" /></label>
+    <label>Gewicht in kg <input type="text" name="weight" /></label>
+    <button type="submit">Rechnen!</button>
+
+    @Model.Weight / @Model.Height
+</form>
